@@ -40,9 +40,9 @@ export REACT_APP_API_URL=http://localhost:8000
 ```
 
 ## Crypto Payments (MetaMask)
-This app now includes a basic crypto payment option alongside existing PayPal/card checkout.
+I’ve integrated it into my account for testing; we can adjust or update it later if required.
 
-- Connect MetaMask wallet from the Checkout page.
+- Connect MetaMask wallet from the My Account page.
 - Fetch and display today's ETH price (from CoinGecko).
 - Display the server's recipient ETH address fetched from the backend.
 
